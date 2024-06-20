@@ -1,8 +1,8 @@
-package com.faayeez.assignment.utilities;
+package com.faayeez.assignment.assignment1.utilities;
 
-import com.faayeez.assignment.employees.Employee;
-import com.faayeez.assignment.employees.Manager;
-import com.faayeez.assignment.employees.Developer;
+import com.faayeez.assignment.assignment1.employees.Developer;
+import com.faayeez.assignment.assignment1.employees.Employee;
+import com.faayeez.assignment.assignment1.employees.Manager;
 
 /**
  * Utility class for operations on employees.

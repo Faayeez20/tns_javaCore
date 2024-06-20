@@ -1,8 +1,8 @@
-package com.faayeez.assignment;
+package com.faayeez.assignment.assignment1;
 
-import com.faayeez.assignment.employees.Manager;
-import com.faayeez.assignment.employees.Developer;
-import com.faayeez.assignment.utilities.EmployeeUtilities;
+import com.faayeez.assignment.assignment1.employees.Developer;
+import com.faayeez.assignment.assignment1.employees.Manager;
+import com.faayeez.assignment.assignment1.utilities.EmployeeUtilities;
 
 /**
  * Main class for running the assignment application.

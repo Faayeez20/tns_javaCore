@@ -1,4 +1,4 @@
-package com.faayeez.assignment.employees;
+package com.faayeez.assignment.assignment1.employees;
 
 public class Employee {
 	private String name;

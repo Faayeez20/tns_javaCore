@@ -1,4 +1,4 @@
-package com.faayeez.assignment.employees;
+package com.faayeez.assignment.assignment1.employees;
 /*
   Represents a manager with additional attributes specific to managers. In this Case we uses teamSize as an attribute
 */
