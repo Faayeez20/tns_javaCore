@@ -1,4 +1,4 @@
-package com.programs_day_one;
+package com.faayeez.programs_day_one;
 
 public class Person {
 	int serialnum;
