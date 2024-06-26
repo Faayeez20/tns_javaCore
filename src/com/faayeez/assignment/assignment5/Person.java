@@ -1,4 +1,4 @@
-package com.faayeez.abstract_program;
+package com.faayeez.assignment.assignment5;
 
 public class Person extends TaxPayer{
 	
